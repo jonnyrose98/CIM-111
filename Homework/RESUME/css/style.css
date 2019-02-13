@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display');
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+
+body{
+       background-color: beige;
+     }
+     .heading1{
+       color: Black;
+       font-family: 'Abril Fatface', cursive;
+
+     }
+     p strong{
+       color:green;
+
+
+
+}
+address{
+font-family: 'Staatliches', cursive;
+}
+     h3{
+       background-color: Orange;
+       font-family: 'Righteous', cursive;, monospace;
+     }
+     a{
+       color: green;
+       text-decoration: none;
+       font-size: 24px;
+     }
+     a:hover{
+       background-color: orange;
+     }
+     .textLinks{
+       font-size: 16px;
+     }
+
+     }
+     ul li{
+       list-style: none;
+     }
+     li{
+       color: Green;
+     }
+     h5 b{
+       color: gray;
+     }
+#aboutme {
+  color: blue;
+  background: linear-gradient(#f69d3c, #3f87a6);
+}
+#Languages {
+  color: purple;
+}
+#Software{
+  color: brown;
+
+}
+#deans
+{color: gray;
+}
+.links {
+  color: Red;
+
+}
+#microsoft
+{color: tan;
+}
