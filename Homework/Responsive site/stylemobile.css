@@ -1,0 +1,14 @@
+@media screen and (max-width: 800px) {
+    .grid-container {
+        max-width: 50%;
+        grid-template-columns: auto;
+    }
+    .pros-cons-container {
+        max-width: 50%;
+        grid-template-columns: auto;
+    }
+    h1,
+    h2 {
+        text-align: left;
+    }
+}

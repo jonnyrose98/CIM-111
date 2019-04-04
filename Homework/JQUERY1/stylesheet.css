@@ -1,0 +1,38 @@
+body {
+    background-color: cornsilk margin-top: 100px;
+    font-family: 'Apple Chancery', serif;
+}
+
+#header {
+    background: url(https://joyfoodsunshine.com/wp-content/uploads/2016/01/best-chocolate-chip-cookies-recipe-ever-no-chilling-1.jpg);
+    background-size: cover;
+    height: 400px
+}
+
+h1,
+p {
+    text-align: center;
+}
+
+.card {
+    width: 1000px;
+    background-color: lightgrey;
+    margin: 0 auto;
+}
+
+img {
+    height: auto;
+    width: 100%;
+}
+
+.Step-1,
+.Step-2,
+.Step-3,
+.Step-4,
+.Step-5,
+.Step-6,
+.Step-7,
+.Step-8,
+.Step-9 {
+    display: none;
+}
